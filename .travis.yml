@@ -3,4 +3,4 @@ node_js:
   - "0.8"
   - "0.6"
 notifications:
-  webhooks: http://requestb.in/11owi171
+  webhooks: http://4sbj.localtunnel.com
